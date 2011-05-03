@@ -8,5 +8,5 @@ Choose a nick:
 
 Currently at the hackerspace:
 <% @user_list.each do |user| %>
-<b><%= user.nick %></b>, <%= time_ago_in_words(user.updated_at) %><br />
+<b><%= user.nick %></b>, since <%= user.updated_at.localtime.to_s.split[3] %><br />
 <% end %>

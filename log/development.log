@@ -3969,3 +3969,252 @@ Rendering template within layouts/application
 Rendering signin/index
 Rendered layouts/_stylesheets (0.3ms)
 Completed in 56ms (View: 53, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:18:03) [GET]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (0.6ms)
+Completed in 27ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:18:04) [GET]
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (0.3ms)
+Completed in 19ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:18:04) [GET]
+  [4;36;1mUser Load (0.2ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (0.3ms)
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:21:44) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (0.6ms)
+Completed in 23ms (View: 17, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:22:12) [GET]
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (0.3ms)
+Completed in 43ms (View: 41, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:22:15) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (0.6ms)
+Completed in 22ms (View: 17, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:23:03) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (0.6ms)
+Completed in 19ms (View: 14, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:23:07) [GET]
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (0.3ms)
+Completed in 40ms (View: 38, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:23:08) [GET]
+  [4;36;1mUser Load (0.2ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (0.3ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:23:15) [GET]
+  [4;35;1mUser Load (0.2ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (0.3ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:23:57) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (0.6ms)
+Completed in 20ms (View: 14, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:27:21) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (0.6ms)
+Completed in 26ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:27:21) [GET]
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (0.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:28:04) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (0.6ms)
+Completed in 28ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SigninController#index (for 192.168.2.28 at 2011-05-03 15:28:34) [GET]
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (33.7ms)
+Completed in 47ms (View: 37, DB: 0) | 200 OK [http://192.168.2.128/]
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:31:20) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (0.6ms)
+Completed in 22ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."nick" = 'swiss') ORDER BY users.id DESC LIMIT 1[0m
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:35:08) [GET]
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+
+ActionView::TemplateError (invalid date) on line #11 of app/views/signin/index.html.erb:
+8: 
+9: Currently at the hackerspace:
+10: <% @user_list.each do |user| %>
+11: <b><%= user.nick %></b>, <%= time_ago_in_words user.updated_at.localtime.to_s.split[3] %><br />
+12: <% end %>
+
+    /usr/local/lib/ruby/1.8/date.rb:1522:in `civil'
+    app/views/signin/index.html.erb:11
+    app/views/signin/index.html.erb:10:in `each'
+    app/views/signin/index.html.erb:10
+    /usr/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (20.7ms)
+Rendered rescues/_request_and_response (0.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:35:24) [GET]
+  [4;36;1mUser Load (0.2ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+
+ActionView::TemplateError (invalid date) on line #11 of app/views/signin/index.html.erb:
+8: 
+9: Currently at the hackerspace:
+10: <% @user_list.each do |user| %>
+11: <b><%= user.nick %></b>, <%= time_ago_in_words (user.updated_at.localtime.to_s.split[3]) %><br />
+12: <% end %>
+
+    /usr/local/lib/ruby/1.8/date.rb:1522:in `civil'
+    app/views/signin/index.html.erb:11
+    app/views/signin/index.html.erb:10:in `each'
+    app/views/signin/index.html.erb:10
+    /usr/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (20.8ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:35:24) [GET]
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+
+ActionView::TemplateError (invalid date) on line #11 of app/views/signin/index.html.erb:
+8: 
+9: Currently at the hackerspace:
+10: <% @user_list.each do |user| %>
+11: <b><%= user.nick %></b>, <%= time_ago_in_words (user.updated_at.localtime.to_s.split[3]) %><br />
+12: <% end %>
+
+    /usr/local/lib/ruby/1.8/date.rb:1522:in `civil'
+    app/views/signin/index.html.erb:11
+    app/views/signin/index.html.erb:10:in `each'
+    app/views/signin/index.html.erb:10
+    /usr/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (20.1ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:35:40) [GET]
+  [4;36;1mUser Load (0.2ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (0.3ms)
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:35:51) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (0.6ms)
+Completed in 25ms (View: 13, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SigninController#index (for 127.0.0.1 at 2011-05-03 15:37:10) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."is_there" = 't') [0m
+Rendering template within layouts/application
+Rendering signin/index
+Rendered layouts/_stylesheets (0.6ms)
+Completed in 21ms (View: 14, DB: 0) | 200 OK [http://localhost/]
