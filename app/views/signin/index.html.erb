@@ -1,0 +1,12 @@
+Choose a nick:
+<% form_for :user, :url => { :action => "signin" } do |f| %>
+  <%= f.text_field :nick, :style => 'width: 200px;' %>
+  <%= submit_tag "Sign In/Out" %>
+<% end %>
+
+<hr />
+
+Currently at the hackerspace:
+<% @user_list.each do |user| %>
+<b><%= user.nick %></b>, <%= time_ago_in_words(user.updated_at) %><br />
+<% end %>
